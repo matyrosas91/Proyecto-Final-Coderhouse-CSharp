@@ -1,0 +1,52 @@
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Proyecto CoderHouse.exe
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Proyecto CoderHouse.deps.json
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Proyecto CoderHouse.runtimeconfig.json
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Proyecto CoderHouse.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Proyecto CoderHouse.pdb
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Humanizer.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.csproj.AssemblyReference.cache
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto_CoderHouse.Properties.Resources.resources
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto_CoderHouse.Vista.resources
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.csproj.GenerateResource.cache
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.AssemblyInfoInputs.cache
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.AssemblyInfo.cs
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.csproj.CoreCompileInputs.cache
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.sourcelink.json
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.csproj.CopyComplete
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\refint\Proyecto CoderHouse.dll
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.pdb
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\Proyecto CoderHouse.genruntimeconfig.cache
+C:\Fabri\Programacion\CoderHouse\Desafio\Proyecto CoderHouse\obj\Release\net6.0-windows\ref\Proyecto CoderHouse.dll
